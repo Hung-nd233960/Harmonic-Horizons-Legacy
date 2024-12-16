@@ -1,0 +1,16 @@
+# Byte-compiled files
+**/__pycache__/
+*.pyc
+*.pyo
+*test*  # Ignores files with 'test' in the name, but keeps directories
+
+# Virtual environment
+venv/
+env/
+
+# Log files
+*.log
+
+# IDE-specific files
+.vscode/
+.idea/

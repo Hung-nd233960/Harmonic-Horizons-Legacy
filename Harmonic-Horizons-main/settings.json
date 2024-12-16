@@ -1,0 +1,13 @@
+{
+    "screen_width": 1920,
+    "screen_height": 1080,
+    "fps": 60,
+    "full_screen": true,
+    "vsync": true,
+    "music_volume": 0,
+    "sfx_volume": 0.3,
+    "grace_period": 0.4,
+    "detection": false,
+    "motion_detection_sensitivity": 0.5,
+    "sound_detection_sensitivity": 30
+}

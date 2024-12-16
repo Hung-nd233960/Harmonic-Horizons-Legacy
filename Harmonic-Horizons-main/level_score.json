@@ -1,0 +1,43 @@
+{
+    "latest_level": "level_1",
+    "level_1": {
+        "High Score": {
+            "time": "2024-11-30 10:07:41",
+            "is_first_star": true,
+            "is_second_star": true,
+            "is_third_star": false,
+            "score": 0,
+            "missed": 4,
+            "perfect": 19
+        },
+        "Latest Attempt": {
+            "time": "2024-11-30 10:07:41",
+            "is_first_star": true,
+            "is_second_star": true,
+            "is_third_star": false,
+            "score": 0,
+            "missed": 4,
+            "perfect": 19
+        }
+    },
+    "level_2": {
+        "High Score": {
+            "time": "2024-11-29 16:07:08",
+            "is_first_star": true,
+            "is_second_star": false,
+            "is_third_star": false,
+            "score": 0,
+            "missed": 43,
+            "perfect": 38
+        },
+        "Latest Attempt": {
+            "time": "2024-11-29 16:07:08",
+            "is_first_star": true,
+            "is_second_star": false,
+            "is_third_star": false,
+            "score": 0,
+            "missed": 43,
+            "perfect": 38
+        }
+    }
+}
